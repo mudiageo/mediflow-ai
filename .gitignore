@@ -84,3 +84,8 @@ mock_data/patient_records/
 secrets/
 *.key
 *.cert
+
+# SvelteKit
+.svelte-kit/
+package-lock.json
+
